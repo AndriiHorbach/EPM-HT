@@ -8,5 +8,9 @@ namespace ConsoleApplication1
 {
     class HelperClass
     {
+        public void GetHelp()
+        {
+
+        }
     }
 }
