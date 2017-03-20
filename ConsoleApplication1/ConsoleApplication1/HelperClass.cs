@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public void GetHelp()
         {
-
+            Console.WriteLine("blabla");
         }
     }
 }
